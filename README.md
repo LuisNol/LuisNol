@@ -5,7 +5,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/@nolbertoluissumaranpimente2506)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)]()
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/LuisNol)
+[![GitHub followers](https://img.shields.io/github/followers/LuisNol)](https://github.com/LuisNol)
 ![Discord Shield]()
 
 ## Sobre mi
