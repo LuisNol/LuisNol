@@ -3,10 +3,10 @@
 </div>
 <img src="https://i.imgur.com/OTZD6R6.jpeg">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/@nolbertoluissumaranpimente2506)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCkWVG3CA5zSH-aCZwqBbeaQ)](https://www.youtube.com/@nolbertoluissumaranpimente2506)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)]()
 [![GitHub followers](https://img.shields.io/github/followers/LuisNol)](https://github.com/LuisNol)
-![Discord Shield]()
+
 
 ## Sobre mi
 
