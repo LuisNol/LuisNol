@@ -78,8 +78,8 @@
 
 ¿Tienes alguna pregunta o quieres colaborar en un proyecto? ¡No dudes en contactarme!
 
-- 💼 **LinkedIn**: [Conecta conmigo](https://linkedin.com/in/tu-perfil)
-- 📧 **Email**: tu-email@ejemplo.com
+- 💼 **LinkedIn**: [Conecta conmigo](https://www.linkedin.com/in/nolberto-luis-sumaran-pimentel-65419a221/)
+- 📧 **Email**: nolberto.sumaran@gmail.com
 - 🐦 **Twitter**: [@tu_usuario](https://twitter.com/tu_usuario)
 
 ## 💡 Fun Facts
