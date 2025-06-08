@@ -1,24 +1,4 @@
-[5:41 p.m., 8/6/2025] Sumaran: <div align="center">
-<h1 align="center">Hello, I am <a href="https://luisnol.github.io/sumarandevs/"> Nolberto Luis</a> 👋</h1>
-</div>
-<img src="https://i.imgur.com/CjC3RBX.jpeg">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCkWVG3CA5zSH-aCZwqBbeaQ)](https://www.youtube.com/@nolbertoluissumaranpimente2506)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)]()
-[![GitHub followers](https://img.shields.io/github/followers/LuisNol)](https://github.com/LuisNol)
-
-## Sobre mi
-- ⭐ Github Star ⭐ 
-- 🌍🚀 Web Developer
-- 💻 Apasionado por la tecnología y el desarrollo de software
-- 🎥 Creador de contenido en YouTube y Twitch
-- 🚀 Siempre aprendiendo nuevas tecnologías
-
-## 🛠️ Tecnologías y Herramientas
-
-##…
-[5:56 p.m., 8/6/2025] Sumaran: ZXASDFSD
-[5:56 p.m., 8/6/2025] Sumaran: <div align="center">
 <h1 align="center">Hello, I am <a href="https://luisnol.github.io/sumarandevs/"> Nolberto Luis</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/CjC3RBX.jpeg">
