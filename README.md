@@ -1,9 +1,10 @@
 <div align="center">
 <h1 align="center">Hello, I am <a href="https://luisnol.github.io/sumarandevs/"> Nolberto Luis</a> 👋</h1>
 </div>
+<!-- Opción 1: Solo ancho (mantiene proporción) -->
 <div align="center">
-<img src="https://i.imgur.com/CjC3RBX.jpeg" width="300" height="200" style="border-radius: 10px;">
-</div
+<img src="https://i.imgur.com/CjC3RBX.jpeg" width="400" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+</div>
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCkWVG3CA5zSH-aCZwqBbeaQ)](https://www.youtube.com/@nolbertoluissumaranpimente2506)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)]()
