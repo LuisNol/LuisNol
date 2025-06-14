@@ -27,21 +27,15 @@
 | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) |  | | ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |  |
 | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) | | |  |  |
 
-
-
 ## 🎯 Proyectos Destacados
-
 - 🌐 **[SumaranDevs](https://luisnol.github.io/sumarandevs/)** - Mi sitio web personal desarrollado con tecnologías modernas
 - 🌐 **[AvisOnline](https://www.avisonline.store/)** - Avisonline - Plataforma de Avisos – Trabajo, Ventas , Servicios entre otros
 - 🅰️ *Aplicaciones Angular* - SPAs robustas con Angular y TypeScript
-- ⚛️ *React Applications* - Interfaces dinámicas con React y hooks modernos
 - 🟢 *Vue.js Projects* - Aplicaciones reactivas con Vue 3 y Composition API
 - 🐘 *Laravel Backend* - APIs RESTful y aplicaciones web con Laravel
 - 📱 *Aplicaciones Full Stack* - Proyectos completos desde frontend hasta backend
-- 🎮 *Proyectos Interactivos* - Experiencias web dinámicas e innovadoras
-
+  
 ## 📊 Actividad en GitHub
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisNol&theme=algolia" alt="GitHub Streak"/>
 </div>
@@ -65,21 +59,17 @@
 </p>
 
 ## 🎥 Contenido y Redes Sociales
-
 - 📺 *YouTube*: [Nolberto Luis Sumarán Pimentel](https://www.youtube.com/@nolbertoluissumaranpimente2506)
 - 🎮 *Twitch*: Streams de programación y tecnología
 - 🌐 *Website*: [luisnol.github.io/sumarandevs](https://luisnol.github.io/sumarandevs/)
 
 ## 📫 Contacto
-
 ¿Tienes alguna pregunta o quieres colaborar en un proyecto? ¡No dudes en contactarme!
-
 - 💼 *LinkedIn*: [Conecta conmigo](https://www.linkedin.com/in/nolberto-luis-sumaran-pimentel-65419a221/)
 - 📧 *Email*: nolberto.sumaran@gmail.com
 - 🐦 *Twitter*: [@NolbertoLuis](https://twitter.com/NolbertoLuis)
 
 ## 💡 Fun Facts
-
 - 🔭 Actualmente trabajando en proyectos innovadores con *Laravel, **Angular* y *Vue.js*
 - 🌱 Aprendiendo constantemente: *TypeScript, **Docker, **AWS* y nuevas tecnologías
 - 👯 Buscando colaborar en proyectos open source y aplicaciones full stack
@@ -87,9 +77,7 @@
 - ⚡ Dato curioso: Me encanta crear contenido educativo en YouTube sobre desarrollo web
 - 🚀 Especializado en: *Frontend moderno, **APIs RESTful* y *aplicaciones SPA*
 - 🎯 Objetivo 2025: Dominar *DevOps* y *Microservicios*
-
 ---
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=LuisNol&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
