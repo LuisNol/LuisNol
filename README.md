@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello, I am <a href="https://luisnol.github.io/sumarandevs/"> Nolberto Luis</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/G8qpqK0.jpeg">
+<img src="https://i.imgur.com/4mPLwLU.jpeg">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCkWVG3CA5zSH-aCZwqBbeaQ)](https://www.youtube.com/@nolbertoluissumaranpimente2506)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)]()
