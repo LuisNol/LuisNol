@@ -2,22 +2,17 @@
 <h1 align="center">Hello, I am <a href="https://luisnol.github.io/sumarandevs/"> Nolberto Luis</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/3CAFKzA.jpeg">
-
-
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCkWVG3CA5zSH-aCZwqBbeaQ)](https://www.youtube.com/@nolbertoluissumaranpimente2506)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)]()
 [![GitHub followers](https://img.shields.io/github/followers/LuisNol)](https://github.com/LuisNol)
-
 ## Sobre mi
 - ⭐ Github Star ⭐ 
 - 🌍🚀 Web Developer
 - 💻 Apasionado por la tecnología y el desarrollo de software
 - 🎥 Creador de contenido en YouTube y Twitch
 - 🚀 Siempre aprendiendo nuevas tecnologías
-
 ## 🛠️ Tecnologías y Herramientas
 # Habilidades Técnicas
-
 | Frontend | Backend & Frameworks | Bases de Datos | Herramientas & DevOps | Cloud & Hosting |
 |:---:|:---:|:---:|:---:|:---:|
 | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
@@ -27,7 +22,6 @@
 | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) | ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white) | ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white)  |
 | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) |  | | ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |  |
 | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) | | |  |  |
-
 ## 🎯 Proyectos Destacados
 - 🌐 **[SumaranDevs](https://luisnol.github.io/sumarandevs/)** - Mi sitio web personal desarrollado con tecnologías modernas
 - 🌐 **[AvisOnline](https://www.avisonline.store/)** - Avisonline - Plataforma de Avisos – Trabajo, Ventas , Servicios entre otros
@@ -40,7 +34,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisNol&theme=algolia" alt="GitHub Streak"/>
 </div>
-
 ### ⚙️ GitHub Analytics
 <p align="center">
 <a href="https://github.com/LuisNol">
@@ -53,17 +46,14 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LuisNol&theme=algolia&column=7" alt="GitHub Trophies"/>
 </p>
-
 ## 📈 Contribuciones
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisNol&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph"/>
 </p>
-
 ## 🎥 Contenido y Redes Sociales
 - 📺 *YouTube*: [Nolberto Luis Sumarán Pimentel](https://www.youtube.com/@nolbertoluissumaranpimente2506)
 - 🎮 *Twitch*: Streams de programación y tecnología
 - 🌐 *Website*: [luisnol.github.io/sumarandevs](https://luisnol.github.io/sumarandevs/)
-
 ## 📫 Contacto
 ¿Tienes alguna pregunta o quieres colaborar en un proyecto? ¡No dudes en contactarme!
 - 💼 *LinkedIn*: [Conecta conmigo](https://www.linkedin.com/in/nolberto-luis-sumaran-pimentel-65419a221/)
