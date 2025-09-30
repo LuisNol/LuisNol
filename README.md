@@ -53,14 +53,18 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisNol&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph"/>
 </p>
 ## 🎥 Contenido y Redes Sociales
-- 📺 *YouTube*: [Nolberto Luis Sumarán Pimentel](https://www.youtube.com/@nolbertoluissumaranpimente2506)
-- 🎮 *Twitch*: Streams de programación y tecnología
-- 🌐 *Website*: [luisnol.github.io/sumarandevs](https://luisnol.github.io/sumarandevs/)
+
+- 📺 **YouTube**: [Nolberto Luis Sumarán Pimentel](https://www.youtube.com/@nolbertoluissumaranpimente2506)
+- 🎮 **Twitch**: Streams de programación y tecnología
+- 🌐 **Website**: [luisnol.github.io/sumarandevs](https://luisnol.github.io/sumarandevs/)
+
 ## 📫 Contacto
+
 ¿Tienes alguna pregunta o quieres colaborar en un proyecto? ¡No dudes en contactarme!
-- 💼 *LinkedIn*: [Conecta conmigo](https://www.linkedin.com/in/nolberto-luis-sumaran-pimentel-65419a221/)
-- 📧 *Email*: nolberto.sumaran@gmail.com
-- 🐦 *Twitter*: [@NolbertoLuis](https://twitter.com/NolbertoLuis)
+
+- 💼 **LinkedIn**: [Conecta conmigo](https://www.linkedin.com/in/nolberto-luis-sumaran-pimentel-65419a221/)
+- 📧 **Email**: nolberto.sumaran@gmail.com
+- 🐦 **Twitter**: [@NolbertoLuis](https://twitter.com/NolbertoLuis)
 
 ## 💡 Fun Facts
 - 🔭 Actualmente trabajando en proyectos innovadores con *Laravel, **Angular* y *Vue.js*
