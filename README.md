@@ -56,14 +56,14 @@
 
 - 📺 **YouTube**: [Nolberto Luis Sumarán Pimentel](https://www.youtube.com/@nolbertoluissumaranpimente2506)
 - 🎮 **Twitch**: Streams de programación y tecnología
-- 🌐 **Website**: [luisnol.github.io/sumarandevs](https://luisnol.github.io/sumarandevs/)
+- 🌐 **Website**: [sumarandevs](https://luisnol.github.io/sumarandevs/)
 
 ## 📫 Contacto
 
 ¿Tienes alguna pregunta o quieres colaborar en un proyecto? ¡No dudes en contactarme!
 
-- 💼 **LinkedIn**: [Conecta conmigo](https://www.linkedin.com/in/nolberto-luis-sumaran-pimentel-65419a221/)
-- 📧 **Email**: nolberto.sumaran@gmail.com
+- 💼 **LinkedIn**: [Nolberto Luis Sumarán Pimentel](https://www.linkedin.com/in/nolberto-luis-sumaran-pimentel-65419a221/)
+- 📧 **Email**: [nolberto.sumaran@gmail.com](mailto:nolberto.sumaran@gmail.com)
 - 🐦 **Twitter**: [@NolbertoLuis](https://twitter.com/NolbertoLuis)
 
 ## 💡 Fun Facts
