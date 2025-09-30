@@ -68,12 +68,7 @@
 
 
 ## 💡 Fun Facts
-- 🔭 Actualmente trabajando en proyectos innovadores con *Laravel, **Angular* y *Vue.js*
 - 🌱 Aprendiendo constantemente: *TypeScript, **Docker, **AWS* y nuevas tecnologías
-- 👯 Buscando colaborar en proyectos open source y aplicaciones full stack
-- 💬 Pregúntame sobre: *Laravel, **Angular, **Vue.js, **React, **JavaScript, **PHP*
-- ⚡ Dato curioso: Me encanta crear contenido educativo en YouTube sobre desarrollo web
-- 🚀 Especializado en: *Frontend moderno, **APIs RESTful* y *aplicaciones SPA*
 - 🎯 Objetivo 2025: Dominar *DevOps* y *Microservicios*
 ---
 <div align="center">
