@@ -26,7 +26,8 @@
 | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) | | |  |  |
 ## 🎯 Proyectos Destacados
 - 🌐 **[SumaranDevs](https://luisnol.github.io/sumarandevs/)** - Mi sitio web personal desarrollado con tecnologías modernas
-- 🌐 **[AvisOnline](https://www.avisonline.store/)** - Avisonline - Plataforma de Avisos – Trabajo, Ventas , Servicios entre otros
+- 🌐 **[Admin Dashboard_FE-SV](https://admin-fe.nlsumaranp.dev/)** - Sistema de Facturación y Ventas
+- 🌐 **[API_FE-SV](https://api-fe.nlsumaranp.dev/)** - API de Facturación y Ventas
 - 🅰️ *Aplicaciones Angular* - SPAs robustas con Angular y TypeScript
 - 🟢 *Vue.js Projects* - Aplicaciones reactivas con Vue 3 y Composition API
 - 🐘 *Laravel Backend* - APIs RESTful y aplicaciones web con Laravel
