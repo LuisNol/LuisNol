@@ -25,29 +25,18 @@
 | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) |  | | ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |  |
 | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) | | |  |  |
 ## 🎯 Featured Projects
-
 - 🌐 **[SumaranDevs](https://luisnol.github.io/sumarandevs/)**  
   Personal portfolio showcasing my projects, experience, and technologies.
-
 - 💼 **[FE-SV Admin Dashboard](https://admin-fe.nlsumaranp.dev/)**  
   Enterprise Billing & Sales Management System.
-
 - ⚙️ **[FE-SV REST API](https://api-fe.nlsumaranp.dev/)**  
   Backend API powering the Billing & Sales platform.
 
-## 🤝 Client Projects
-
+## 🤝  Collaboration Projects
 - 🌐 **[DAR Website](https://dar.reformaperu.org/)** - Corporate website providing information about DAR, its services, humanitarian missions, events, and volunteer programs. :contentReference[oaicite:0]{index=0}
-
 - 🛠️ **[DAR Management Platform](https://app.dar.reformaperu.org/)** - Internal web application for managing operations, missions, volunteers, and administrative processes.
-
 - 🚀 **[DAR REST API](https://api.v1.core.dar.reformaperu.org/)** - Backend API powering the DAR platform and its digital services.  
-  Backend services supporting the DAR ecosystem.
-- 🅰️ *Aplicaciones Angular* - SPAs robustas con Angular y TypeScript
-- 🟢 *Vue.js Projects* - Aplicaciones reactivas con Vue 3 y Composition API
-- 🐘 *Laravel Backend* - APIs RESTful y aplicaciones web con Laravel
-- 📱 *Aplicaciones Full Stack* - Proyectos completos desde frontend hasta backend
-  
+
 ## 📊 Actividad en GitHub
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisNol&theme=algolia" alt="GitHub Streak"/>
