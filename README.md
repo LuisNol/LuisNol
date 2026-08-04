@@ -24,46 +24,27 @@
 | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) | ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white) | ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white)  |
 | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) |  | | ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |  |
 | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) | | |  |  |
-## 🚀 Featured Projects
+## 🎯 Featured Projects
 
-### 🌐 SumaranDevs
-**Personal Portfolio Website**  
-Modern portfolio showcasing my projects, skills, and professional experience.
+- 🌐 **[SumaranDevs](https://luisnol.github.io/sumarandevs/)**  
+  Personal portfolio showcasing my projects, experience, and technologies.
 
-🔗 https://luisnol.github.io/sumarandevs/
+- 💼 **[FE-SV Admin Dashboard](https://admin-fe.nlsumaranp.dev/)**  
+  Enterprise Billing & Sales Management System.
 
----
+- ⚙️ **[FE-SV REST API](https://api-fe.nlsumaranp.dev/)**  
+  Backend API powering the Billing & Sales platform.
 
-### 💼 Admin Dashboard FE-SV
-**Billing & Sales Management System**
+## 🤝 Client & Collaboration Projects
 
-A complete administration panel for managing invoices, customers, products, sales, and reports with a modern UI.
+- 🏛️ **[DAR Platform](https://app.dar.reformaperu.org/)**  
+  Public platform for Reforma Perú.
 
-🔗 https://admin-fe.nlsumaranp.dev/
+- 🛠️ **[DAR Admin Panel](https://dar.reformaperu.org/)**  
+  Administrative dashboard for platform management.
 
----
-
-### ⚙️ API FE-SV
-**Billing & Sales REST API**
-
-Backend API built with scalable architecture, authentication, authorization, and business logic for the billing platform.
-
-🔗 https://api-fe.nlsumaranp.dev/
-
-## 🤝 Collaboration Projects
-
-### 🏛️ Reforma Perú - DAR Platform
-
-Development of the digital platform for **Reforma Perú**, including public portal, administration dashboard, and backend API.
-
-#### 🌍 Public Platform
-🔗 https://app.dar.reformaperu.org
-
-#### 🛠️ Administration Panel
-🔗 https://dar.reformaperu.org
-
-#### 🚀 REST API
-🔗 https://api.v1.core.dar.reformaperu.org
+- 🚀 **[DAR REST API](https://api.v1.core.dar.reformaperu.org/)**  
+  Backend services supporting the DAR ecosystem.
 - 🅰️ *Aplicaciones Angular* - SPAs robustas con Angular y TypeScript
 - 🟢 *Vue.js Projects* - Aplicaciones reactivas con Vue 3 y Composition API
 - 🐘 *Laravel Backend* - APIs RESTful y aplicaciones web con Laravel
