@@ -35,15 +35,13 @@
 - ⚙️ **[FE-SV REST API](https://api-fe.nlsumaranp.dev/)**  
   Backend API powering the Billing & Sales platform.
 
-## 🤝 Client & Collaboration Projects
+## 🤝 Client Projects
 
-- 🏛️ **[DAR Platform](https://app.dar.reformaperu.org/)**  
-  Public platform for Reforma Perú.
+- 🌐 **[DAR Website](https://dar.reformaperu.org/)** - Corporate website providing information about DAR, its services, humanitarian missions, events, and volunteer programs. :contentReference[oaicite:0]{index=0}
 
-- 🛠️ **[DAR Admin Panel](https://dar.reformaperu.org/)**  
-  Administrative dashboard for platform management.
+- 🛠️ **[DAR Management Platform](https://app.dar.reformaperu.org/)** - Internal web application for managing operations, missions, volunteers, and administrative processes.
 
-- 🚀 **[DAR REST API](https://api.v1.core.dar.reformaperu.org/)**  
+- 🚀 **[DAR REST API](https://api.v1.core.dar.reformaperu.org/)** - Backend API powering the DAR platform and its digital services.  
   Backend services supporting the DAR ecosystem.
 - 🅰️ *Aplicaciones Angular* - SPAs robustas con Angular y TypeScript
 - 🟢 *Vue.js Projects* - Aplicaciones reactivas con Vue 3 y Composition API
