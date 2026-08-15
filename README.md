@@ -25,7 +25,7 @@
 | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) |  | | ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |  |
 | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) | | |  |  |
 ## 🎯 Featured Projects
-- 🌐 **[SumaranDevs](https://luisnol.github.io/sumarandevs/)**  
+- 🌐 **[SumaranDevs](https://spnl-ig.nlsumaranp.dev/)**  
   Personal portfolio showcasing my projects, experience, and technologies.
 - 💼 **[FE-SV Admin Dashboard](https://admin-fe.nlsumaranp.dev/)**  
   Enterprise Billing & Sales Management System.
